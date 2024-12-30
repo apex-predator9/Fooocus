@@ -10,8 +10,8 @@
         ],
         [
             true,
-            "None",
-            1.0
+            "JAV7-IL.safetensors",
+            0.1
         ],
         [
             true,
@@ -39,7 +39,8 @@
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
-        "Fooocus Sharp"
+        "Fooocus Sharp",
+        "Fooocus Negative"
     ],
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
@@ -49,5 +50,9 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "NsfwPovAllInOneLoraSdxl-000009.safetensors": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor"
+    }
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "NsfwPovAllInOneLoraSdxl-000009.safetensors": "https://civitai.com/api/download/models/1202812?type=Model&format=SafeTensor"
     }
 }
