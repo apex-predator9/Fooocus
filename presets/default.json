@@ -10,7 +10,7 @@
         ],
         [
             true,
-            "JAV7-IL.safetensors",
+            "None",
             0.1
         ],
         [
@@ -50,9 +50,5 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "NsfwPovAllInOneLoraSdxl-000009.safetensors": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor"
-    },
-    "embeddings_downloads": {},
-    "lora_downloads": {
-        "NsfwPovAllInOneLoraSdxl-000009.safetensors": "https://civitai.com/api/download/models/1202812?type=Model&format=SafeTensor"
     }
 }
